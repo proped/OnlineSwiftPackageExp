@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CustomFontKit",
+        "repositoryURL": "https://github.com/proped/CustomFontKit",
+        "state": {
+          "branch": "master",
+          "revision": "6911e6a99c1fce856d92ea28024addeca303df28",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
